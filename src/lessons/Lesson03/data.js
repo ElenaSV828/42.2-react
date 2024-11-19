@@ -1,4 +1,4 @@
-export const lionData = {
+export const linaData = {
     name: "Alex",
     species: "Lion",
     role: "Main Character",
