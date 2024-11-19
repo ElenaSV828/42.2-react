@@ -7,4 +7,4 @@ export const userData = {
   };
   
   
-  const {name, profession} = userData;
+  //const {name, profession} = userData;

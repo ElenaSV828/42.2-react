@@ -9,7 +9,7 @@ function ProfileCard() {
       {/* 1 вариант */}
       {/* <img src={userData.avatar} /> */}
       {/* 2 вариант */}
-      <img src={userAvatar} />
+      <img src={userAvatar} alt="user avatar"/>
       <div>{userData.profession}</div>
       <div>{userData.hobbies[0]}</div>
     </div>
