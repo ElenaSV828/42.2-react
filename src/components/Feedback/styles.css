@@ -1,0 +1,29 @@
+.feedback-container{
+display: flex;
+flex-direction: column;
+gap: 30px;
+padding: 20px;
+width: 700px;
+background-color: rgb(204, 204, 236);
+}
+
+.feedback-result-container{
+display: flex;
+gap: 30px;
+width: 100%;
+}
+
+.like-dislike-container{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 25px;
+width: 100%;
+}
+.result-likes, .result-dislikes{
+width: 80px;
+text-align:center ;
+font-size: 35px;
+font-weight: bold;
+color:blueviolet ;
+}
